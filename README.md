@@ -1,6 +1,9 @@
 # similar_apps
 finding out similar apps for a given app
 
+Description extractor:
+app_info_extractor.ipynb
+
 Approach 1 & 2 using TF-IDF:
 similar_apps_preprocessing-tf-idf.ipynb
 
